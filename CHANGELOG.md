@@ -17,6 +17,6 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), versio
 
 ### Changed
 
-- Clone URL and crate `repository` now use `bunnysi`.
+- Clone URL and crate `repository` now use `opentu`.
 - Crate lives under `userspace/`; repository root is a Cargo workspace.
 - README states this tree is work in progress while learning Rust for Linux.
